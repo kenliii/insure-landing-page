@@ -16,3 +16,10 @@ body {
 .showcase-inner {
     background-color: hsl(256, 26%, 20%);
 }
+
+.underline {
+    background-color: black;
+    width: 150px;
+    height: 2px;
+    margin: auto;
+}
