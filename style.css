@@ -4,3 +4,15 @@
     margin: 0;
     padding: 0;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'DM Serif Display', serif;
+}
+
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+.showcase-inner {
+    background-color: hsl(256, 26%, 20%);
+}
